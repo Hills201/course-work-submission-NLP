@@ -1,3 +1,3 @@
 # course-work-submission-NLP
-Data stet link
+Data set link
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data
